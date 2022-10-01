@@ -8,4 +8,3 @@ def uniq_add(my_list=[]):
         for uniqs in res_list:
             res += uniqs
         return res
-
