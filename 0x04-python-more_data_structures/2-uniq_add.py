@@ -6,5 +6,5 @@ def uniq_add(my_list=[]):
         if item not in res_list:
             res_list.append(item)
     for uniqs in res_list:
-            res += uniqs
+        res += uniqs
     return res
